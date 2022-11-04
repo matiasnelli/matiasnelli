@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiasnelli
-- 👀 I’m interested in aesthetics
+- 👀 I’m interested in aesthetics, writing clean and effective code
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that can bring me new experiences
 - 📫 How to reach me: matiasn0708@gmail.com
