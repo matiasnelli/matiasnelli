@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in aesthetics, writing clean and effective code
 - 
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning SQL
 - 
 - 💞️ I’m looking to collaborate on any project that can bring me new experiences
 - 
